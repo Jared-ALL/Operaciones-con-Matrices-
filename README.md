@@ -1,2 +1,3 @@
-# Operaciones-con-Matrices-
-Operaciones con Matrices en Python 
+# Operaciones-con-Matrices
+Libro Stanley I. Grossman (Algebrá lineal)
+Ejercicio 7 MATLAB 2.4
